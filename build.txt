@@ -1,0 +1,3 @@
+displayName = Tutorial Mod
+author = Monica
+version = 0.1
